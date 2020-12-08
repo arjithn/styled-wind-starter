@@ -10314,10 +10314,10 @@ styled-components@^5.2.1:
     shallowequal "^1.1.0"
     supports-color "^5.5.0"
 
-styled-wind@^0.0.0-beta.7:
-  version "0.0.0-beta.7"
-  resolved "https://registry.yarnpkg.com/styled-wind/-/styled-wind-0.0.0-beta.7.tgz#8db84841f7be8dc7bcc4f1a7c524529618abcc25"
-  integrity sha512-kWI/W1xmfdM6lqAMM2U4D7s+Vvv6flnKAx4sPUqIUpkjAKYc75XONsSL9XGrSaND81fA3mJo6eeQgXdo0za2ow==
+styled-wind@^0.0.0-beta.13:
+  version "0.0.0-beta.13"
+  resolved "https://registry.yarnpkg.com/styled-wind/-/styled-wind-0.0.0-beta.13.tgz#585ef128fb45a533ec9ce32dc7ff05c15d31beda"
+  integrity sha512-20YjBnAUmfN77jwNlI4kAxCASl9jvartVy7YQ/Qdz5YhcBVyagjyWZIrs3L2zh1HMr74sDVZk0GKAudLSnVyWA==
   dependencies:
     lodash-es "^4.17.15"
     reduce-css-calc "^2.1.7"
